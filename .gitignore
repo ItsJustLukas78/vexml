@@ -1,0 +1,7 @@
+.yolov8s.pt
+videos/
+venv/
+data/labels.cache
+
+# models
+runs/detect/
